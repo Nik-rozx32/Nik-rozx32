@@ -21,7 +21,6 @@ Computer Science Engineering Student
    <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nikki_roz?theme=dark&font=Prompt&ext=heatmap)
 
    
    [![Nikkitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nik-rozx32&bg_color=0d0d0d&color=ffffff&line=f5b2f1&point=7005b8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
